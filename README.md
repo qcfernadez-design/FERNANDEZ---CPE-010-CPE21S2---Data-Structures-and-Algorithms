@@ -4,7 +4,7 @@
 <p align="center">The following is the submission for the compilation for all my activities during my full CPE 010 course </p>
 
 <details>
-  <summary>OBJECTIVES</summary>
+  <summary><b>OBJECTIVES</b></summary>
   <br>
   <h1 align="center">Course Objectives</h1>
   <p align="center">
@@ -19,7 +19,7 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
 
 
 <details>
-  <summary>C.I.L.O</summary>
+  <summary><b>C.I.L.O</b></summary>
   <br>
   <h1 align="center">Course Intended Learning Outcomes</h1>
   <p align="center">
@@ -30,21 +30,24 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
 </details>
 
 <details>
-<summary><b>📁 Course Work Directory (Click to expand)</b></summary>
+<summary><b>📁 Course Work Directory</b></summary>
 
 <br>
+ 📚 Course Materials
 
-### 📚 Course Materials
 
-* 📝 **[Prelims](./prelims)**
-  * [Lecture Notes](./prelims/notes.md)
-  * [Lab Activity 1](./prelims/lab-1)
-* ✍️ **[Midterms](./midterms)**
-  * [Study Guide](./midterms/guide.md)
-  * [Exam Submission](./midterms/exam)
-* 🏆 **[Finals](./finals)**
-  * [Final Project](./finals/project)
-  * [Documentation](./finals/docs)
+* 📝 **[Prelims]**
+  * [HANDS ON]
+  * [SEATWORK]
+  * [EXAM]
+* ✍️ **[Midterms]**
+  * [HANDS ON]
+  * [SEATWORK]
+  * [EXAM]
+* 🏆 **[Finals]**
+  * [HANDS ON]
+  * [SEATWORK]
+  * [EXAM]
 
 </details>
 
