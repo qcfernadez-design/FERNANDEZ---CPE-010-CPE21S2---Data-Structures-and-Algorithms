@@ -30,24 +30,37 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
 </details>
 
 <details>
-<summary><b>📁 Course Work Directory</b></summary>
+  <summary><b>📂 Course Work</b></summary>
+  <br>
 
-<br>
- 📚 Course Materials
+  <details style="margin-left: 20px;">
+    <summary><b>📁 Prelims</b></summary>
+    <ul>
+      <li>📁 <a href=><b>Full Prelims Folder</b></a></li>
+      <li>🖐️ <a href=>Hands-on Activities</a></li>
+      <li>📝 <a href=>Assignments</a></li>
+      <li>✏️ <a href=>Exams</a></li>
+    </ul>
+  </details>
 
+  <details style="margin-left: 20px;">
+    <summary><b>📁 Midterms</b></summary>
+    <ul>
+      <li>📁 <a href=><b>Full Midterms Folder</b></a></li>
+      <li>🖐️ <a href=>Hands-on Activities</a></li>
+      <li>📝 <a href=>Assignments</a></li>
+      <li>✏️ <a href=>Exams</a></li>
+    </ul>
+  </details>
 
-* 📝 **[Prelims]**
-  * [HANDS ON]
-  * [SEATWORK]
-  * [EXAM]
-* ✍️ **[Midterms]**
-  * [HANDS ON]
-  * [SEATWORK]
-  * [EXAM]
-* 🏆 **[Finals]**
-  * [HANDS ON]
-  * [SEATWORK]
-  * [EXAM]
-
+  <details style="margin-left: 20px;">
+    <summary><b>📁 Finals</b></summary>
+    <ul>
+      <li>📁 <a href=><b>Full Finals Folder</b></a></li>
+      <li>🖐️ <a href=>Hands-on Activities</a></li>
+      <li>📝 <a href=>Assignments</a></li>
+      <li>✏️ <a href=>Exams</a></li>
+    </ul>
+  </details>
 </details>
 
