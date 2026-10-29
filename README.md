@@ -36,30 +36,31 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
   <details style="margin-left: 20px;">
     <summary><b>📁 Prelims</b></summary>
     <ul>
-      <li>📁 <a href=><b>Full Prelims Folder</b></a></li>
-      <li>🖐️ <a href=>Hands-on Activities</a></li>
-      <li>📝 <a href=>Assignments</a></li>
-      <li>✏️ <a href=>Exams</a></li>
+      <li>📁 <a href="https://github.com/qcfernadez-design/FERNANDEZ---CPE-010-CPE21S2---Data-Structures-and-Algorithms/tree/main/Portfolio%20in%20CPE%20010/Prelims"><b>Full Prelims Folder</b></a></li>
+      <li>🖐️ <a href="https://github.com/qcfernadez-design/FERNANDEZ---CPE-010-CPE21S2---Data-Structures-and-Algorithms/tree/main/Portfolio%20in%20CPE%20010/Prelims/Hand%20On%20Activity">Hands-on Activities</a></li>
+      <li>📝 <a href="https://github.com/qcfernadez-design/FERNANDEZ---CPE-010-CPE21S2---Data-Structures-and-Algorithms/tree/main/Portfolio%20in%20CPE%20010/Prelims/Assignment">Assignments</a></li>
+      <li>📚 <a href="https://github.com/qcfernadez-design/FERNANDEZ---CPE-010-CPE21S2---Data-Structures-and-Algorithms/tree/main/Portfolio%20in%20CPE%20010/Prelims/Seatwork">Seatwork</a></li>
+      <li>✏️ <a href="https://github.com/qcfernadez-design/FERNANDEZ---CPE-010-CPE21S2---Data-Structures-and-Algorithms/tree/main/Portfolio%20in%20CPE%20010/Prelims/Prelim%20Exam">Exams</a></li>
     </ul>
   </details>
 
   <details style="margin-left: 20px;">
     <summary><b>📁 Midterms</b></summary>
     <ul>
-      <li>📁 <a href=><b>Full Midterms Folder</b></a></li>
-      <li>🖐️ <a href=>Hands-on Activities</a></li>
-      <li>📝 <a href=>Assignments</a></li>
-      <li>✏️ <a href=>Exams</a></li>
+      <li>📁 <a href="https://github.com/qcfernadez-design/FERNANDEZ---CPE-010-CPE21S2---Data-Structures-and-Algorithms/tree/main/Portfolio%20in%20CPE%20010/Midterms"><b>Full Midterms Folder</b></a></li>
+      <li>🖐️ <a href="https://github.com/qcfernadez-design/FERNANDEZ---CPE-010-CPE21S2---Data-Structures-and-Algorithms/tree/main/Portfolio%20in%20CPE%20010/Midterms/Hand%20On%20Activity">Hands-on Activities</a></li>
+      <li>📝 <a href="https://github.com/qcfernadez-design/FERNANDEZ---CPE-010-CPE21S2---Data-Structures-and-Algorithms/tree/main/Portfolio%20in%20CPE%20010/Midterms/Assignments">Assignments</a></li>
+      <li>📚 <a href="https://github.com/qcfernadez-design/FERNANDEZ---CPE-010-CPE21S2---Data-Structures-and-Algorithms/tree/main/Portfolio%20in%20CPE%20010/Midterms/Seatwork">Seatwork</a></li>
+      <li>✏️ <a href="https://github.com/qcfernadez-design/FERNANDEZ---CPE-010-CPE21S2---Data-Structures-and-Algorithms/tree/main/Portfolio%20in%20CPE%20010/Midterms/Midterm%20Exam">Exams</a></li>
     </ul>
   </details>
 
   <details style="margin-left: 20px;">
     <summary><b>📁 Finals</b></summary>
     <ul>
-      <li>📁 <a href=><b>Full Finals Folder</b></a></li>
-      <li>🖐️ <a href=>Hands-on Activities</a></li>
-      <li>📝 <a href=>Assignments</a></li>
-      <li>✏️ <a href=>Exams</a></li>
+      <li>📁 <a href="https://github.com/qcfernadez-design/FERNANDEZ---CPE-010-CPE21S2---Data-Structures-and-Algorithms/tree/main/Portfolio%20in%20CPE%20010/Finals"><b>Full Finals Folder</b></a></li>
+      <li>🖐️ <a href="https://github.com/qcfernadez-design/FERNANDEZ---CPE-010-CPE21S2---Data-Structures-and-Algorithms/tree/main/Portfolio%20in%20CPE%20010/Finals/Hand%20On%20Activity">Hands-on Activities</a></li>
+      <li>📚 <a href="https://github.com/qcfernadez-design/FERNANDEZ---CPE-010-CPE21S2---Data-Structures-and-Algorithms/tree/main/Portfolio%20in%20CPE%20010/Finals/Seatwork">Seatwork</a></li>
     </ul>
   </details>
 </details>
